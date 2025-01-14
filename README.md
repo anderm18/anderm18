@@ -35,16 +35,16 @@ You'll find me writing code in many languages, but these seem to come up most of
  <h3>Some of my Proudest Projects</h3>
 </div align="center">
 <div  align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <a href="https://github.com/anderm18/HealthChat">
     <img height=150 width=400 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anderm18&repo=HealthChat" />
   </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <a href="https://github.com/anderm18/HASSPathways">
     <img height=150 width=400 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anderm18&repo=HASSPathways" />
   </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <a href="https://github.com/averyiorio/TreeRingOrigin">
     <img height=150 width=400 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=averyiorio&repo=TreeRingOrigin" />
   </a>
-   <a href="https://github.com/anuraghazra/github-readme-stats">
+   <a href="https://github.com/anderm18/CurlingVAR">
     <img height=150 width=400 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anderm18&repo=CurlingVAR" />
   </a>
 </div>
