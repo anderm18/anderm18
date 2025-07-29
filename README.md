@@ -7,7 +7,7 @@
       <h2>Software Engineer making new things one bug at a time </h2>
     </summary>
     <summary>
-      <h3> Hi! I'm Michael. I'm a Software Engineer in New York. Currently, I'm working at IBM. My GitHub acts as a collection of my coding projects new and old that I want to share with the world! :earth_americas: </h3>
+      <h3> Hi! I'm Michael. I'm a Software Engineer in New York. Currently, I'm working at Microsoft. My GitHub acts as a collection of my coding projects new and old that I want to share with the world! :earth_americas: </h3>
     </summary>
   </ul>
 </div>
